@@ -5,7 +5,7 @@
 The aim of this project is to do Traffic Sign Recognition. This is a two step process of detection and classification.
 The Traffic Sign Dataset used in this project is by courtesy of Radu Timofte from ETH-Zurich Vision Lab
 
-Please refer to [Project Report](https://github.com/adheeshc/Traffic-Sign-Recognition/blob/master/Report/Report.pdf) for further description
+Please refer to [Project Report](https://github.com/sanhuezapablo/Traffic-Sign-Recognition/blob/master/Report/Report.pdf) for further description
 
 ### Detection Stage
 
