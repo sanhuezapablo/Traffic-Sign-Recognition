@@ -82,10 +82,10 @@ The ROI previously extracted in the detection stage is then used as an input to 
 
 ## **FILE DESCRIPTION**
 
-- Code Folder/[iniital.py](https://github.com/adheeshc/Traffic-Sign-Recognition/blob/master/Code/iniital.py) - The code using MSER algorithm
-- Code Folder/[project6.py](https://github.com/adheeshc/Traffic-Sign-Recognition/blob/master/Code/project6.py) - The code using HSV Color Space
-- Code Folder/[classifierSVD.py](https://github.com/adheeshc/Traffic-Sign-Recognition/blob/master/Code/classifierSVD.py) - used for training the SVD
-- Code Folder/[svm_function.py](https://github.com/adheeshc/Traffic-Sign-Recognition/blob/master/Code/svm_function.py) - used for testing the SVD
+- Code Folder/[iniital.py](https://github.com/sanhuezapablo/Traffic-Sign-Recognition/blob/master/Code/iniital.py) - The code using MSER algorithm
+- Code Folder/[project6.py](https://github.com/sanhuezapablo/Traffic-Sign-Recognition/blob/master/Code/project6.py) - The code using HSV Color Space
+- Code Folder/[classifierSVD.py](https://github.com/sanhuezapablo/Traffic-Sign-Recognition/blob/master/Code/classifierSVD.py) - used for training the SVD
+- Code Folder/[svm_function.py](https://github.com/sanhuezapablo/Traffic-Sign-Recognition/blob/master/Code/svm_function.py) - used for testing the SVD
 
 - Dataset folder - Contains Good_Images folder containing all good images to be displayed next to detected signs, link to Input images folder, Training Images and Testing Images. Also has link to 2 xml files that have trained classification model
 
@@ -95,7 +95,7 @@ The ROI previously extracted in the detection stage is then used as an input to 
   
 - References folder - Contains supplementary documents that aid in understanding
 
-- Report folder - Contains [Project Report](https://github.com/adheeshc/Traffic-Sign-Recognition/blob/master/Report/Report.pdf)
+- Report folder - Contains [Project Report](https://github.com/sanhuezapablo/Traffic-Sign-Recognition/blob/master/Report/Report.pdf)
 
 ## **RUN INSTRUCTIONS**
 
